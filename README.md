@@ -1,1 +1,2 @@
-# ANLY590-HW3
+# ANLY590-HW3 Submission
+## Team: Zhe Zhou, Jiaxuan Sun, Jen Wang
